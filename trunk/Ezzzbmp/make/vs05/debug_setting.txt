@@ -1,0 +1,1 @@
+Debugging Working Directory: $(SolutionDir)..\..\env_$(ConfigurationName)
